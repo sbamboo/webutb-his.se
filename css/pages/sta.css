@@ -1,0 +1,40 @@
+.row {
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#row1 {
+    min-height: 400px;
+}
+
+#row2 {
+    min-height: 400px;
+}
+
+#row3 {
+    min-height: 550px;
+}
+
+#row1card1 .card-thumbnail {
+    background-image: url("../../images/thumbnails/ansokan_till.jpg");
+}
+#row1card2 .card-thumbnail{
+    background-image: url("../../images/thumbnails/lediga_jobb.jpg");
+}
+#row1card3 .card-thumbnail{
+    background-image: url("../../images/thumbnails/kvalitet_och_relevans.jpg");
+}
+
+#row2card1 .card-thumbnail {
+    background-image: url("../../images/thumbnails/malin_landgren.jpg");
+}
+#row2card2 .card-thumbnail{
+    background-image: url("../../images/thumbnails/20230622_1008022.jpg");
+}
+#row2card3 .card-thumbnail{
+    background-image: url("../../images/thumbnails/nikolaos-kourentzes2.jpg");
+}
+#row2card4 .card-thumbnail{
+    background-image: url("../../images/thumbnails/_hor83842.jpg");
+}
